@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ForCal</string>
+    <string name="editTextHint">Enter Here</string>
+    <string name="textview">Enter value of <i>v</i> as <i>a</i>  x 10<sup>8</sup></string>
+    <string name="submit">Submit</string>
+    <string name="textView4">Enter value of <i>v</i>  as <i>a</i>  x 10<sup>8</sup></string>
+    <string name="instruction">Click to Calculate Spi Factor for present time</string>
+    <string name="calculateSpi">Calculate</string>
+    <string name="lorentz_factor"><b>Lorentz Factor</b></string>
+    <string name="spi_factor"><b>"Spi" Factor</b></string>
+    <string name="calculate_spi_factor">Click to calculate Spi Factor for present time</string>
+    <string name="calculate">Calculate</string>
+    <string name="current_time"><b>Current Time</b></string>
+</resources>
